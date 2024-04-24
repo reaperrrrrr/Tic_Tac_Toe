@@ -29,7 +29,7 @@ Click on an empty cell on the grid to place your mark (X or O). The game will au
 
 ## Support
 
-Having trouble? Feel free to open an issue on the GitHub repository or contact me at [your-email-address].
+Having trouble? Feel free to open an issue on the GitHub repository or contact me at khappy7727@gmail.com.
 
 ## Roadmap
 
