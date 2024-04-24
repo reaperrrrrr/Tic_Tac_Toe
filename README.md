@@ -8,7 +8,8 @@ This Tic-Tac-Toe game lets you play the traditional game in a sleek and responsi
 
 ## Visuals
 
-Screenshot of Tic-Tac-Toe game: screenshot.png  ## Installation
+Screenshot of Tic-Tac-Toe game: screenshot.png  ## Installation![Screenshot ](https://github.com/reaperrrrrr/Tic_Tac_Toe/assets/149355613/4ed19c0b-b318-4113-8cff-d3ed340d2e69)
+
 
 This is a simple web-based game, no installation required! Just follow these steps:
 
