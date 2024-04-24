@@ -15,7 +15,7 @@ This is a simple web-based game, no installation required! Just follow these ste
 1. *Clone or Download the Repository:*
     * Use Git:  
       bash
-      git clone https:github.com/reaperrrrrr/Tic_Tac_Toe/tree/master
+      git clone [https:github.com/reaperrrrrr/Tic_Tac_Toe/tree/master](https://github.com/reaperrrrrr/Tic_Tac_Toe)
       
     * Download the ZIP file from your GitHub repository.
 
